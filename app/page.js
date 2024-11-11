@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 
 export default function Home() {
   return (
-   <div className="grid grid-cols-1 md:grid-cols-2 gap-10 h-svh my-30 mx-10">
+   <div className="grid grid-cols-1 md:grid-cols-2 gap-10 h-svh my-30 sm:mx-5 md:mx-10">
      
       <div className="flex flex-col justify-center ml-12">
       <h1 className="text-2xl mb-12 font-bold font-mono">Welcome to InterviewAI</h1>
